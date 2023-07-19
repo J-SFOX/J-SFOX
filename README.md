@@ -1,11 +1,11 @@
 
 # Welcome to J-SFOX's GitHub Profile!
 
- **About Me**
+# **About Me**
 
 I'm a **FullStack Developer** passionate about Web and Mobile Development. With a strong background in front-end / android apps, I enjoy creating usedul apps for my clients .
 
- **What I'm Working On
+# **What I'm Working On
 
 Currently, I'm focusing on MEAN stack developement. Here are some of the key projects I'm involved in:
 
@@ -13,7 +13,7 @@ Currently, I'm focusing on MEAN stack developement. Here are some of the key pro
 - Dressingo: Reselling used clothes to public , kotlin / spring boot based app.
 - Liber.ma: Moroccan service provider 
 
- **Technologies & Tools**
+# **Technologies & Tools**
 
 I work with a wide range of technologies and tools, including:
 
