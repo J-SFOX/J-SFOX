@@ -26,7 +26,7 @@ I work with a wide range of technologies and tools, including:
 
 Feel free to explore my GitHub repositories to discover more exciting projects!
 
- #**Contact Me**
+ # **Contact Me**
 
 If you'd like to get in touch, you can reach me via:
 
