@@ -17,11 +17,11 @@ Currently, I'm focusing on MEAN stack developement. Here are some of the key pro
 
 I work with a wide range of technologies and tools, including:
 
-- **Programming languages**: Javascript, python, java, kotlin, c, c++
+- **Programming languages**: JavaScript, TypeScript python, java, kotlin, c, c++
 - **Frameworks and libraries**: React JS, Angular, Next, Spring Boot, django.
 - **Databases**: MySQL, Postgresql, Oracle, MongoDB, Firebase.
 - **Designing Tools**: Figma, Adobe PS.
-- **Other Tools**: Github, GitLab, Netlify, Vercel, Jira Trello.
+- **Other Tools**: Github, GitLab, Netlify, Vercel, Jira, Trello.
 
 
 Feel free to explore my GitHub repositories to discover more exciting projects!
